@@ -1,0 +1,47 @@
+		html { 
+  background: url(https://cdn.pixabay.com/photo/2017/10/11/23/35/musical-background-2842924_1280.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+html, body {
+  margin:0;border:0;padding:0;
+  font-family:'Proxima';
+  overflow-x:hidden;
+  position: relative;
+  vertical-align: baseline;
+}
+		form{
+	margin-top:5%;
+	text-align: center;
+	width: 40%;
+	margin-left: 30%;
+	background-color: rgba(0,0,0,0.82);
+	color: white;
+	margin-bottom: 10px;
+	border-radius: 10%;
+		}
+		select{
+			width:50%;
+		    margin-top:2%;
+			margin-bottom:2%;
+		}
+		textarea{
+			width:80%;
+			margin-top:2%;
+		}
+		input{
+			margin-bottom:2%;
+		}
+
+div{
+	margin-top: 1%;
+	margin-bottom:1%;
+	
+}
+@font-face {
+    font-family: 'Proxima';
+    src: url(../fonts/ProximaNova-Regular.otf);
+}
