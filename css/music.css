@@ -57,9 +57,11 @@ div{
 	margin-bottom:1%;
 	
 }
-dd{
+p{
 	display: block;
-	margin:0;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top:0px;
 }
 @font-face {
     font-family: 'Proxima';
