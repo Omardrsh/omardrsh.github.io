@@ -57,6 +57,10 @@ div{
 	margin-bottom:1%;
 	
 }
+dd{
+	display: block;
+	margin:0;
+}
 @font-face {
     font-family: 'Proxima';
     src: url(../fonts/ProximaNova-Regular.otf);
