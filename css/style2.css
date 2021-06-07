@@ -174,7 +174,13 @@ header hr {
 
   padding-right: 6px;
 }
-
+table{
+	width: 100%;
+}
+table, tr, td, th{
+	text-align: center;
+	border: 1px solid rgba(150,0,27,1.00) ;
+}
 /* experience section */
 .experience {
   border-radius:7%;
