@@ -16,7 +16,9 @@ hhtml, body {
   position: relative;
   vertical-align: baseline;
 }
-
+iframe{
+	width:100%;
+}
 
 p{
 	font-size: 20px;
