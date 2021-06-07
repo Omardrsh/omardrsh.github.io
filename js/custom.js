@@ -5,6 +5,6 @@ $(function(){
  "images/Ciri.jpg", 
  "images/Eileen.jpg",
  "images/Lady Maria.jpg",
- "images/Nameless King.jpg"], 	{duration: 5000, fade: 1300});
+ "images/Nameless King.jpg"], 	{duration: 5000, fade: 1300});$('img').attr('alt', 'bg');
 		});
 })
